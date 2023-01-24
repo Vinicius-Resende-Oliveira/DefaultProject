@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiv/x7QWYp2lwNZkhPR0EIh7jUeRW8HOj8Zkj3ot+q3byl7AbDu2rAKVN881CFHkQ+IB4qlWgzq3epttsefCkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ViniciusOliveira\\OneDrive - ZBRA.dev\\Documentos\\MyProjects\\DefaultProject\\DefaultProject\\DefaultProject.Domain\\DefaultProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ViniciusOliveira\\.nuget\\packages\\konscious.security.cryptography.argon2\\1.3.0\\konscious.security.cryptography.argon2.1.3.0.nupkg.sha512",
+    "C:\\Users\\ViniciusOliveira\\.nuget\\packages\\konscious.security.cryptography.blake2\\1.1.0\\konscious.security.cryptography.blake2.1.1.0.nupkg.sha512",
+    "C:\\Users\\ViniciusOliveira\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
